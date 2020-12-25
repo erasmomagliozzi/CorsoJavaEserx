@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="json" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="TreeExpress" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

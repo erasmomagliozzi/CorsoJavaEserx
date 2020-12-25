@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArcadeRank/ArcadeRank.iml" filepath="$PROJECT_DIR$/ArcadeRank/ArcadeRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CivilRegistry/CivilRegistry.iml" filepath="$PROJECT_DIR$/CivilRegistry/CivilRegistry.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CorsoJavaEserx.iml" filepath="$PROJECT_DIR$/.idea/CorsoJavaEserx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeExpress/TreeExpress.iml" filepath="$PROJECT_DIR$/TreeExpress/TreeExpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/gutenberg/gutenberg.iml" filepath="$PROJECT_DIR$/gutenberg/gutenberg.iml" />
     </modules>
   </component>

@@ -1,5 +1,3 @@
-package packageClass;
-
 import java.util.Objects;
 import java.util.UUID;
 
@@ -7,9 +5,17 @@ public class Player {
     private String nickname;
     private UUID id;
 
-    public Player(String nickname) {
+    Player(String nickname) {
         this.nickname = nickname;
         id = UUID.randomUUID();
+    }
+
+    public String getNickname() {
+        return nickname;
+    }
+
+    public UUID getId() {
+        return id;
     }
 
     @Override

@@ -1,8 +1,9 @@
-package com.example.demo.models;
+package com.example.demo.view;
 
 public class User {
     private String username;
     private String password;
+
 
     public String getUsername() {
         return username;

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0fd16b6-15bc-42ff-ac32-eb384feb9535" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/MY PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/PROGRAMMAZIONE OGGETTI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/biblioteca/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/MY PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/contatore/contatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/contatore/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/forme/Cerchio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/forme/Colore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/forme/Quadrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/forme/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/labyrinth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/lampadina/Lampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/lampadina/StatoLampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/lampadina/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/numeriRomani/LettereRomane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/numeriRomani/NumeroRomano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/numeriRomani/testNumeriRomani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/DIttaRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/PrioritàIntervento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/Riparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/StatoRiparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/riparazioni/TestDittaRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/tris/Elementi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/tris/Scacchiera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi/tris/testTicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/esercizi_module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/Bibliotec/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/Bibliotec/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/ListaOrdinata/ListaOrdinata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/ListaOrdinata/mainLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/esercizi_module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/min/mainMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/esercizi_module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/esercizi_module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/esercizi_module5/src/out/production/esercizi_module5/out/production/esercizi_module5/out/production/esercizi_module5/esercizi_module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/biblioteca_monopattino/Biblioteca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/biblioteca_monopattino/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/Bibliotec/Biblioteca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/Bibliotec/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/ListaOrdinata/ListaOrdinata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/ListaOrdinata/mainLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/min/mainMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/modulo5/out/production/esercizi_module5/min/minmass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PROJECT/out/production/MY PROJECT/labyrinth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/.idea/NUOVA CARTELLA PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/ESERCIZI MODULE 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/GestoreVeicoli/GestoreVeicoli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/GestoreVeicoli/src/Autocarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/GestoreVeicoli/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/GestoreVeicoli/src/Veicoli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/GestoreVeicoli/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/distributoreBevande.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/src/Bevanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/src/Caffè.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/src/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/src/DistributoreDiBevande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/distributoreBevande/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/forme/forme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/forme/src/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/forme/src/Quadrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/forme/src/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/forme/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/GestoreVeicoli/Autocarro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/GestoreVeicoli/Automobile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/GestoreVeicoli/Veicoli.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/GestoreVeicoli/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/distributoreBevande/Bevanda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/distributoreBevande/Caffè.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/distributoreBevande/Cappuccino.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/distributoreBevande/DistributoreDiBevande.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/distributoreBevande/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/forme/FormaGeometrica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/forme/Quadrato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/forme/Rettangolo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/forme/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/ristorante/GestorePrenotazioni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/ristorante/Preferenza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/ristorante/Prenotazione.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/out/production/ristorante/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/ristorante/ristorante.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/ristorante/src/GestorePrenotazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/ristorante/src/Preferenza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/ristorante/src/Prenotazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULE 6/ristorante/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/ESERCIZI MODULO 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/LISTA_ORDINATA/ListaOrdinata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/LISTA_ORDINATA/mainLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/classificaSerieA/Classifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/classificaSerieA/Giocatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/classificaSerieA/Squadra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/classificaSerieA/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 5/src/classificaSerieA/ordinaClassifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/ESERCIZI MODULO 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/ferrovia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Binario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/BinarioCapolinea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/BinarioScambio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/BinarioSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/BinarioSemplice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/BinarioStazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Frecciarossa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Passeggero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/PasseggeroAffamato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/PasseggeroAssonnato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/PasseggeroSemplice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Regionale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/StatoPorte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Treno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/Vagone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/VagoneLetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/VagonePasseggero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/VagoneRistorante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/ferrovia/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/interfacce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/Iterabile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/ListaDiInteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/MiaStringa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/interfacce/src/iterabile/mainLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/ferrovia/StatoPorte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/Iterabile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/Lista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/ListaDiInteri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/MiaStringa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/ESERCIZI MODULO 7/out/production/interfacce/iterabile/mainLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/IlMioPrimoBot/src/Comando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/IlMioPrimoBot/src/ListaDellaSpesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/IlMioPrimoBot/src/MioBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/IlMioPrimoBot/src/botRandomMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/LISTA_ORDINATA/ListaOrdinata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/LISTA_ORDINATA/mainLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/classificaSerieA/Classifica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/classificaSerieA/Giocatore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/classificaSerieA/Squadra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/classificaSerieA/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NUOVA CARTELLA PORJECT/out/production/ESERCIZI MODULO 5/classificaSerieA/ordinaClassifica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/ArithmeticalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/InvertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_02/ReplaceIntruders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/CruciPuzzle/CruciPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/CruciPuzzle/CruciPuzzle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/CruciPuzzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Flowgorithm/contaVocaliConsonanti.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Flowgorithm/divisione.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Flowgorithm/fondiArray.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Flowgorithm/miniGoogle.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Flowgorithm/quadratoDispari.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/HarmonicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/MinimumMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/Ordering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_03/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_04/Immagini/laby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_04/Immagini/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_04/Immagini/rogue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_04/Labyrinth.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../REPOSITORY/module_04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_05/module_05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_05/lampadina/solution/Impianto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/Impianto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_05/lampadina/solution/Interruttore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/Interruttore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_05/lampadina/solution/Lampadina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/Lampadina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module_05/lampadina/solution/StatoLampadina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module_05/lampadina/solution/StatoLampadina.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jrZq6hj8aOFJOeypwHX9q6cVjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0fd16b6-15bc-42ff-ac32-eb384feb9535" name="Default Changelist" comment="" />
+      <created>1604564358325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604564358325</updated>
+      <workItem from="1604564359461" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

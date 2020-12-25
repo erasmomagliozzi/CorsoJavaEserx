@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5d2c731-02f7-4b00-9224-5e291df3894e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/MY PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/PROGRAMMAZIONE OGGETTI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/biblioteca/biblioteca_monopattino/src/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/biblioteca/biblioteca_monopattino/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/MY PROJECT/labyrinth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/contatore/Contatore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/contatore/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/forme/Cerchio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/forme/Colore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/forme/Quadrato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/forme/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/labyrinth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/labyrinth/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/out/production/PROGRAMMAZIONE OGGETTI/lampadina/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/MY PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/contatore/contatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/contatore/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/forme/Cerchio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/forme/Colore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/forme/Quadrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/forme/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/labyrinth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/lampadina/Lampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/lampadina/StatoLampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/lampadina/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/numeriRomani/LettereRomane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/numeriRomani/NumeroRomano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/numeriRomani/testNumeriRomani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/DIttaRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/PrioritàIntervento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/Riparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/StatoRiparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/riparazioni/TestDittaRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/tris/Elementi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/tris/Scacchiera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MY PROJECT/src/tris/testTicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/ArithmeticalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/InvertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_02/ReplaceIntruders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/CruciPuzzle/CruciPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/CruciPuzzle/CruciPuzzle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/CruciPuzzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Flowgorithm/contaVocaliConsonanti.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Flowgorithm/divisione.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Flowgorithm/fondiArray.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Flowgorithm/miniGoogle.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Flowgorithm/quadratoDispari.fprg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/HarmonicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/MinimumMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/Ordering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_03/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_04/Immagini/laby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_04/Immagini/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_04/Immagini/rogue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_04/Labyrinth.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../REPOSITORY/module_04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module_05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impianto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Impianto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interruttore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interruttore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lampadina.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lampadina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatoLampadina.java" beforeDir="false" afterPath="$PROJECT_DIR$/StatoLampadina.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jIJlDCmRPxms5QPL0JZi6Ds93D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d2c731-02f7-4b00-9224-5e291df3894e" name="Default Changelist" comment="" />
+      <created>1603485820324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603485820324</updated>
+      <workItem from="1603485821518" duration="1452000" />
+      <workItem from="1603700178520" duration="53000" />
+      <workItem from="1603700642199" duration="1848000" />
+      <workItem from="1603786046058" duration="230000" />
+      <workItem from="1603792483484" duration="790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
